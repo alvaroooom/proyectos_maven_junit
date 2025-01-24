@@ -117,11 +117,5 @@ class TermometroTest {
 		
 		assertEquals(valorEsperado, valor);
 	}
-	
-	
-	
-	
-	
-	
 
 }
